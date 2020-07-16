@@ -1,4 +1,4 @@
-import './../styles/sass/Nav.scss';
+import './../styles/Nav.scss';
 import Link from 'next/Link';
 
 const Nav = () => {

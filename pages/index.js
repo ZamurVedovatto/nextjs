@@ -1,10 +1,12 @@
-import Nav from '../components/Nav';
+import './../styles/General.scss';
+
 import Layout from '../components/Layout';
+import Home from './Home';
 
 const Index = () => {
   return (
     <Layout>
-      Hello world from home page
+      <Home />
     </Layout>
   )
 }

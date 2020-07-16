@@ -1,4 +1,4 @@
-import './../styles/sass/Home.scss'
+import './../styles/Home.scss'
 import Nav from './Nav';
 
 const Layout = (props) => {

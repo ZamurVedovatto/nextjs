@@ -1,4 +1,4 @@
-import './../styles/sass/About.scss';
+import './../styles/About.scss';
 import Layout from '../components/Layout';
 
 const About = () => {
